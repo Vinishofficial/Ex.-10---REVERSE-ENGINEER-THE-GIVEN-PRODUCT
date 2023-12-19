@@ -31,8 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Vinishofficial/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146931793/10719317-3abe-4ea3-aecb-b2886ccec2c3)
+
 
 ### Output:
+![image](https://github.com/Vinishofficial/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146931793/7780eb32-1811-47ca-bbd5-ae7732eb666c)
+
 
 
 ### Name:
